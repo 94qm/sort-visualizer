@@ -7,8 +7,8 @@ __pycache__/
 *$py.class
 *.so
 
-# Matplotlib
-*.png
+# Matplotlib (exclude screenshots)
+# *.png
 *.pdf
 
 # IDE
